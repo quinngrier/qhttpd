@@ -20,6 +20,9 @@ Here's how to get started:
 
 . Make sure you have the following tools installed:
 
+.. OpenSSL version 3.0.13 or later.
+You can check this by running `openssl version`.
+
 .. Python version 3.12.3 or later.
 You can check this by running `python3 --version`.
 
