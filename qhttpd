@@ -10,12 +10,6 @@
 # <https://creativecommons.org/publicdomain/zero/1.0/>.
 #
 
-#
-# qhttpd - Static HTTPS server for development
-#
-# Written in portable shell, but uses OpenSSL and Python.
-#
-
 set -E -e -o pipefail -u || exit $?
 trap exit ERR
 
