@@ -1,4 +1,4 @@
-#! /bin/sh -
+#! /usr/bin/env bash
 
 #
 # The authors of this file have waived all copyright and
@@ -15,6 +15,9 @@
 #
 # Written in portable shell, but uses OpenSSL and Python.
 #
+
+set -E -e -o pipefail -u || exit $?
+trap exit ERR
 
 cert=${HOME?}/.qhttpd/cert.pem
 readonly cert
