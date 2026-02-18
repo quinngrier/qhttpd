@@ -8,13 +8,13 @@
 // <https://creativecommons.org/publicdomain/zero/1.0/>.
 //
 
-= qhttpd
+= Qhttpd
 :experimental:
 
 :x_download_url: https://raw.githubusercontent.com/quinngrier/qhttpd/main/qhttpd
 :x_man_page_url: https://github.com/quinngrier/qhttpd/blob/main/qhttpd.1.adoc
 
-qhttpd is a simple web server.
+Qhttpd is a simple web server.
 
 Here's how to get started:
 
