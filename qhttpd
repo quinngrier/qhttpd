@@ -10,6 +10,12 @@
 # <https://creativecommons.org/publicdomain/zero/1.0/>.
 #
 
+#
+# This is qhttpd, a simple web server.
+#
+# See <https://github.com/quinngrier/qhttpd>.
+#
+
 #-----------------------------------------------------------------------
 # Set up initial error handling
 #-----------------------------------------------------------------------
